@@ -62,8 +62,8 @@ img{
     border-radius: 1rem;
 }
 footer{
-    margin-top: 10rem;
-    height: 2rem;
+    margin-top: 8.9rem;
+    height: 3rem;
     background-color: darkslateblue;
     color: #fff;
     text-align: center;
@@ -77,5 +77,5 @@ footer{
     text-align: center;
 }
 #b{
-    margin-right: 1rem;
+    margin-right: 2rem;
 }
